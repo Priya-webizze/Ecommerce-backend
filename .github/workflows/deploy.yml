@@ -7,6 +7,11 @@ on:
         description: "Branch to deploy"
         required: true
         default: "develop"
+        type: choice
+        options:
+          - fix/docker-build
+          - feature/demo-dev-cicd-setup
+
 
 jobs:
   build-and-test:
