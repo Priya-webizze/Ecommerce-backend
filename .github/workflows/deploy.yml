@@ -11,6 +11,7 @@ on:
         options:
           - fix/docker-build
           - feature/demo-dev-cicd-setup
+          - feature/dev-deployment 
 
 
 jobs:
