@@ -10,7 +10,7 @@ on:
         type: choice
         options:
           - fix/docker-build
-          - feature/demo-dev-cicd-setu
+          - feature/demo-dev-cicd-setup
 
 
 jobs:
