@@ -47,7 +47,7 @@ jobs:
             set -e
 
             echo "================================="
-            echo "Starting backend deploy..."
+            echo "Starting backend deployment..."
             echo "================================="
 
             cd ~/my_project/Ecommerce-backend
